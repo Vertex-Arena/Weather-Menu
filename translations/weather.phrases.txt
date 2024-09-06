@@ -1,0 +1,34 @@
+"Phrases"
+{
+    "PickTheWeather"
+    {
+        "en" "Pick the ambient"
+        "es" "Selecciona el ambiente"
+    }
+
+    "Rainy"
+    {
+        "en" "Rainy"
+        "es" "Lluvioso"
+    }
+
+    "Snowy"
+    {
+        "en" "Snowy"
+        "es" "Nevado"
+    }
+
+    "Sunny"
+    {
+    "en" "Sunny"
+    "es" "Soleado"
+    }
+
+    "WeatherChangedTo"
+    {
+    "#format" "{1:s}"
+
+    "en" "Weather changed to {1}."
+    "es" "El clima ha cambiado a {1}."
+    }
+}
