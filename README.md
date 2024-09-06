@@ -14,7 +14,7 @@ Commands:
 - `!weather`
 
 ## Configuration
-- To change player sizes, edit the `weather.sp` file and recompile.
+- To change the type of weather that you want, edit the `weather.sp` file and recompile.
 
 ## Translations
 - You can change the translations easily in your `addons/sourcemod/translations` folder
