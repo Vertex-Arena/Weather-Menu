@@ -1,3 +1,5 @@
+[![forthebadge](https://forthebadge.com/images/badges/it-works-dont-ask-me-how.svg)](https://forthebadge.com)
+
 # WeatherMenu
 SourceMod plugin for [IOSoccer](https://github.com/romdi/iosoccer-game/tree/master) This plugin helps you to change the weather & ambient from the stadium easily. 
 For any questions, please contact me on Discord: inactivoo.
